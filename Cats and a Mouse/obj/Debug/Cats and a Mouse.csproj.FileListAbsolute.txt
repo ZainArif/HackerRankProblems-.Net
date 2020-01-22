@@ -1,0 +1,6 @@
+D:\study\HackerRankProblems-.Net\Cats and a Mouse\bin\Debug\Cats and a Mouse.exe.config
+D:\study\HackerRankProblems-.Net\Cats and a Mouse\bin\Debug\Cats and a Mouse.exe
+D:\study\HackerRankProblems-.Net\Cats and a Mouse\bin\Debug\Cats and a Mouse.pdb
+D:\study\HackerRankProblems-.Net\Cats and a Mouse\obj\Debug\Cats and a Mouse.csprojAssemblyReference.cache
+D:\study\HackerRankProblems-.Net\Cats and a Mouse\obj\Debug\Cats and a Mouse.exe
+D:\study\HackerRankProblems-.Net\Cats and a Mouse\obj\Debug\Cats and a Mouse.pdb

@@ -1,0 +1,6 @@
+D:\study\HackerRankProblems-.Net\Climbing the Leaderboard\bin\Debug\Climbing the Leaderboard.exe.config
+D:\study\HackerRankProblems-.Net\Climbing the Leaderboard\bin\Debug\Climbing the Leaderboard.exe
+D:\study\HackerRankProblems-.Net\Climbing the Leaderboard\bin\Debug\Climbing the Leaderboard.pdb
+D:\study\HackerRankProblems-.Net\Climbing the Leaderboard\obj\Debug\Climbing the Leaderboard.csprojAssemblyReference.cache
+D:\study\HackerRankProblems-.Net\Climbing the Leaderboard\obj\Debug\Climbing the Leaderboard.exe
+D:\study\HackerRankProblems-.Net\Climbing the Leaderboard\obj\Debug\Climbing the Leaderboard.pdb

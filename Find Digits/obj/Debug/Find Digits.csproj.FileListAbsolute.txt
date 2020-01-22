@@ -1,0 +1,6 @@
+D:\study\HackerRankProblems-.Net\Find Digits\bin\Debug\Find Digits.exe.config
+D:\study\HackerRankProblems-.Net\Find Digits\bin\Debug\Find Digits.exe
+D:\study\HackerRankProblems-.Net\Find Digits\bin\Debug\Find Digits.pdb
+D:\study\HackerRankProblems-.Net\Find Digits\obj\Debug\Find Digits.csprojAssemblyReference.cache
+D:\study\HackerRankProblems-.Net\Find Digits\obj\Debug\Find Digits.exe
+D:\study\HackerRankProblems-.Net\Find Digits\obj\Debug\Find Digits.pdb
